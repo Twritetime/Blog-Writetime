@@ -23,6 +23,7 @@ export default navbar([
         prefix: "日常/",
         children: [
           { text: "建站", icon: "pen-to-square", link: "建站" },
+          { text: "日记", icon: "pen-to-square", link: "日记" },
         ],
       },
       { text: "外贸", 
